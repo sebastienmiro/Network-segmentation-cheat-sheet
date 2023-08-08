@@ -112,6 +112,3 @@ Now you will have 2 computers on your desktop if you need access to production n
 * Create [issue](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/issues/new);
 * Start [discussion](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/discussions/new).
 
-## If u like it?  
-[Please subscribe - this is free support for the project](https://www.instagram.com/lizzibi)
-![image](https://user-images.githubusercontent.com/29877074/149565429-821554fc-5bab-46ea-bbe3-429f54f0e7cb.png)
